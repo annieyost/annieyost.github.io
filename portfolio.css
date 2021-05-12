@@ -494,7 +494,23 @@ highlightsp1{
         
     }  
   
-    
+  @media only screen and (max-width: 600px) {
+      .grid_parent {
+        display: grid;
+        grid-template-columns: [start] 1fr [end];
+        grid-gap:5px 1em;
+        grid-auto-rows: minmax(50px,auto);
+        align-content: start;
+} 
+      
+    #image{
+    object-fit:contain;
+    height: 100px;
+    width: 100%;
+}  
+      
+      
+    }
 /*
     @font-face{
         font-family: "Oswald";
