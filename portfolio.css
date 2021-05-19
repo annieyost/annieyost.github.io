@@ -529,8 +529,8 @@ highlightsp1{
             align-content: start;
         } 
         body{
-            margin-right: 10px;
-            margin-left: 10px;  
+             margin-left: auto;
+            margin-right: auto; 
 
         }
         .grid_parent {
