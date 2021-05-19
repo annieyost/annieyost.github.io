@@ -527,6 +527,14 @@ highlightsp1{
         grid-auto-rows: minmax(50px,auto);
         align-content: start;
 } 
+      
+       .grid_parent {
+        display: grid;
+        grid-template-columns: [start] 1fr [end];
+        grid-gap:5px 1em;
+        grid-auto-rows: minmax(50px,auto);
+        align-content: start;
+} 
       .homeimage1{
         grid-column: 1/2;
         margin-top:10px;
