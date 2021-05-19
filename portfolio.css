@@ -520,7 +520,7 @@ highlightsp1{
     }  
 
     @media only screen and (max-width: 850px) {
-        
+
         .new_grid_parent {
             display: grid;
             grid-template-columns: [start] 1fr [end];
@@ -564,20 +564,25 @@ highlightsp1{
             font-size: 20px;
         }
         .paragraph1{
-        grid-column:1/4;
+            grid-column:1/4;
+        }
+
+        img {
+            max-width: 100%;
+            display: block;
         }
     }
-        /*
-        @font-face{
-        font-family: "Oswald";
-        src: url(Downloads/oswald/Oswald-Regular.ttf);
-        font-weight: 400;
-    }
-        */
+    /*
+    @font-face{
+    font-family: "Oswald";
+    src: url(Downloads/oswald/Oswald-Regular.ttf);
+    font-weight: 400;
+}
+    */
 
 
 
 
 
 
-        /*font-variation-settings for variable fonts*/
+    /*font-variation-settings for variable fonts*/
