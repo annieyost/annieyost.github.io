@@ -519,7 +519,7 @@ highlightsp1{
         
     }  
   
-  @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 850px) {
       .new_grid_parent {
         display: grid;
         grid-template-columns: [start] 1fr [end];
