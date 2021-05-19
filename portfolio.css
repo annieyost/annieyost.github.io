@@ -571,6 +571,9 @@ highlightsp1{
             max-width: 100%;
             display: block;
         }
+        .center{
+    text-align: center;
+    grid-column:1/2;
     }
     /*
     @font-face{
