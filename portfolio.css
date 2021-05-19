@@ -550,11 +550,11 @@ highlightsp1{
         }
         #image3{
             object-fit:contain;
-            height: 300px;
+            height: 200px;
             width: 100%;
         }  
         .kevitaimage4{
-            grid-column: 1/4;
+            grid-column: 1/2;
         }
         h4{
             font-size: 40px;
