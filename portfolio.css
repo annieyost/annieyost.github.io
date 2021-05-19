@@ -435,69 +435,6 @@ highlightsp1{
     grid-column:3/4
 }
 
-@media only screen and (max-width: 600px) {
-    body{
-        margin:10px;
-    }
-    #image{
-        object-fit:contain;
-        height: 100px;
-        width: 100%;
-    }
-    #image2{
-        object-fit:contain;
-        height: 80px;
-        width: 100%;
-    }
-    #image3{
-        object-fit:contain;
-        height: 400px;
-        width: 100%;
-    }
-    #image5{
-        object-fit:contain;
-        height: 50px;
-        width: 100%;
-    }
-    #image6{
-        object-fit:contain;
-        height: 68px;
-        width: 100%;
-    }
-    #image7{
-        object-fit:contain;
-        height: 80px;
-        width: 100%;
-    }
-    #image8{
-        object-fit:contain;
-        height: 80px;
-        width: 100%;
-    }
-    #image8{
-        object-fit:contain;
-        height: 100px;
-        width: 100%;
-
-    }
-
-    #image9{
-        object-fit:cover;
-        height: 600px;
-        width: 200%;
-    }
-    h1{
-        font-size: 18px;
-        text-align: left;
-    }
-    .introduction{
-        grid-column:1/4;
-        margin-top:10px;
-    }
-
-    p{
-        font-size:14px;
-    }
 
 
 
@@ -575,6 +512,9 @@ highlightsp1{
     text-align: center;
     grid-column:1/2;
     }
+        
+        
+}
     /*
     @font-face{
     font-family: "Oswald";
