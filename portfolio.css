@@ -618,17 +618,22 @@ highlightsp1{
      
     }
     li{
-    display:block;
-        font-size: 16px;
+    display:inline;
+        font-size: 12px;
 
 }
+    
+    #title{
+     font-size: 15px;   
+    
+    }
 }
 
 @media only screen and (max-width: 450px) {
     
     
     #image3{
-        height: 300px;
+        height: 200px;
     }
     
     
