@@ -619,12 +619,12 @@ highlightsp1{
     }
     li{
     display:inline;
-        font-size: 12px;
-
+        font-size: 11px;
+        padding-right:20px;
 }
     
     #title{
-     font-size: 15px;   
+     font-size: 14px;   
     
     }
 }
