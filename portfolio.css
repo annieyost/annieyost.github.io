@@ -478,11 +478,11 @@ highlightsp1{
         align-content: start;
     } 
     .homeimage1{
-        grid-column: 1/2;
+        grid-column: 1/4;
         margin-top:10px;
     }
     .homeimage2{
-        grid-column: 1/2;
+        grid-column: 1/4;
         margin-top:10px;
     }
     #image3{
