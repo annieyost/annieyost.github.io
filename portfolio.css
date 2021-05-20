@@ -623,6 +623,29 @@ highlightsp1{
 
 }
 }
+
+@media only screen and (max-width: 450px) {
+    
+    
+    #image3{
+        height: 300px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+
+
+
+
+
 /*
 @font-face{
 font-family: "Oswald";
