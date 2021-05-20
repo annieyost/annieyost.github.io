@@ -487,14 +487,22 @@ highlightsp1{
     }
     #image3{
         object-fit:contain;
-        height: 200px;
+        height: 300px;
         width: 100%;
     }  
     .kevitaimage4{
         grid-column: 1/4;
     }
+    
+     .kevitaimage2{
+        grid-column: 1/4;
+    }
+    .introduction{
+        margin-left: 50px;
+    }
+    
     h4{
-        font-size: 40px;
+        font-size: 30px;
     }  
     h2{
         font-size: 30px;
@@ -507,6 +515,12 @@ highlightsp1{
         margin-left: 5px;
         margin-right:5px;
     }
+    .nineparagraph{
+        grid-column:1/4;
+        margin-left: 5px;
+        margin-right:5px;
+    }
+
 
     img {
         max-width: 100%;
@@ -528,8 +542,8 @@ highlightsp1{
     li{
     display:block;
         font-size: 16px;
-    margin-left: -20px;
-        padding-left: -30px;
+
+}
 }
 /*
 @font-face{
