@@ -567,6 +567,15 @@ highlightsp1{
         grid-column: 1/4;
     }
     
+     .picture1{
+        grid-column: 1/4;
+    }
+    .picture2{
+        grid-column: 1/4;
+    }
+    .picture3{
+        grid-column: 1/4;
+    }
      .kevitaimage2{
         grid-column: 1/4;
     }
@@ -626,6 +635,9 @@ highlightsp1{
     #title{
      font-size: 14px;   
     
+    }
+    #image{
+        height:200px;
     }
 }
 
